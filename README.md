@@ -1,3 +1,11 @@
+## Learn to packing with reinforcement learning and shape signature
+
+Author: Yang Shan, Wang Zilu 
+
+From: Department of Management Science and Engineering, Tongji University
+
+The report using English will be updated soon.
+
 ## Report(Chinese)
 
 ![基于强化学习与形状签名的排样学习模型-王子路&羊山_page-0001](img/基于强化学习与形状签名的排样学习模型-王子路&羊山_page-0001.jpg)
