@@ -26,18 +26,6 @@
 
 2D irregular packing problem is a kind of cutting and packing problem. It can be classified as  two-dimensional irregular open dimensional problem according to Wascher's paper.
 
-To obtain a intial result, heuristic criteria is always 
-
-In this respository, we replace 
-
-
-
-算法意义：
-
-- [ ] 取代低效的单一标准，避免获得更优初始解
-- [ ] 可以应用到实时系统，更优初始解可以降低优化时间
-- [ ] 该模型的下降趋势明显，后续可能可以进一步应用到更为复杂的模型
-
 
 
 ## Architecture of the Network
@@ -46,7 +34,7 @@ The architecture of our network mainly consults works by Hu and Bello.
 
 <img src="/Users/sean/Documents/Projects/My Github/Learn-to-Pack/img/image-20200622142925437.png" alt="image-20200622142925437" height="300px" />
 
-Besides, the shape signature  
+  
 
 
 
@@ -60,13 +48,11 @@ Besides, the shape signature
 
 ## Results and What we are doing now?
 
-Based on datasets whose polygons have less than 8 edges, we can see the training result will be 
 
 
+<img src="img/WechatIMG6301.png" alt="image-20200622141555895" style="zoom:50%;" />
 
-<img src="/Users/sean/Documents/Projects/My Github/Learn-to-Pack/img/image-20200622141555895.png" alt="image-20200622141555895" style="zoom:50%;" />
-
-<img src="/Users/sean/Documents/Projects/My Github/Learn-to-Pack/img/image-20200622141548533.png" alt="image-20200622141548533" style="zoom:50%;" />
+<img src="img/WechatIMG6302.png" alt="image-20200622141548533" style="zoom:50%;" />
 
 
 
@@ -76,5 +62,5 @@ Based on datasets whose polygons have less than 8 edges, we can see the training
 
 <img src="/Users/sean/Documents/Projects/My Github/Learn-to-Pack/img/image-20200622141612674.png" alt="image-20200622141612674" style="zoom:50%;" />
 
-As 
+
 
