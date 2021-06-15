@@ -1,10 +1,8 @@
 ## Learn to packing with reinforcement learning and shape signature
 
-Author: Yang Shan, Wang Zilu 
+Author: Wang Zilu, Yang Shan
 
 From: Department of Management Science and Engineering, Tongji University
-
-The report using English will be updated soon.
 
 ## Report(Chinese)
 
